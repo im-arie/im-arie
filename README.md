@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my thesis**
 
-- 🌱 I’m currently learning **redux, swift, ux/ui design**
+- 🌱 I’m currently learning **react, redux, ux/ui design**
 
 - 👨‍💻 All of my projects will be available at [ericafreitas.pt](ericafreitas.pt)
 
