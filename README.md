@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, redux, ux/ui design**
 
-- 👨‍💻 All of my projects will be available at [ericafreitas.pt](ericafreitas.pt)
+- 👨‍💻 All of my projects will be available at [ericafreitas.pt](www.ericafreitas.pt)
 
 - 📫 How to reach me **pt.ericafreitas@gmail.com**
 
