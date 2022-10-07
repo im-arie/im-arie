@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects will be available at [ericafreitas.pt](https://ericafreitas.pt)
 
-- 📫 How to reach me **pt.ericafreitas@gmail.com**
+- 📫 How to reach me **github@ericafreitas.pt**
 
 - ⚡ Fun fact **I like to read manga**
 
