@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erica</h1>
 <h3 align="center">A newbie UX/UI & Frontend Engineer from Portugal</h3>
 
-- 🔭 I’m currently working at [Yacooba](https://yacooba.com)
+- 🔭 I’m currently working at [Yacooba Labs](https://yacoobalabs.com)
 
 - 🌱 I’m currently learning a lot about **react & ux/ui design**
 
